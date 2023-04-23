@@ -9,7 +9,3 @@
 6. Managing market risks using the Greek letters
 7. Risk measures
 8. Credit risk management
-
-
-# Project
-1.  Markowitz portfolio, CAPM, 
